@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#faf7f2"/>
+  <circle cx="175" cy="150" r="95" fill="#c63d2f" opacity=".16"/>
+  <circle cx="1010" cy="495" r="145" fill="#231f20" opacity=".08"/>
+  <rect x="120" y="160" width="215" height="320" rx="34" fill="#fff"/>
+  <rect x="365" y="105" width="215" height="390" rx="34" fill="#e8ded2"/>
+  <rect x="610" y="150" width="215" height="300" rx="34" fill="#fff"/>
+  <rect x="855" y="90" width="215" height="390" rx="34" fill="#d9cabe"/>
+  <text x="120" y="560" font-family="Arial, sans-serif" font-size="76" font-weight="800" fill="#231f20">Pin Minimal</text>
+  <text x="120" y="602" font-family="Arial, sans-serif" font-size="30" fill="#746c65">Inspiración visual tipo Pinterest</text>
+</svg>
